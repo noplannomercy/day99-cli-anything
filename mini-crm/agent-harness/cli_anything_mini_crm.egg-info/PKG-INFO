@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: cli-anything-mini-crm
+Version: 1.0.0
+Requires-Dist: click>=8.0
+Requires-Dist: psycopg2-binary
+Dynamic: requires-dist

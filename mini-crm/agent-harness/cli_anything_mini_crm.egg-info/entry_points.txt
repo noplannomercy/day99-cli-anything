@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mini-crm = cli_anything.mini_crm.mini_crm_cli:main

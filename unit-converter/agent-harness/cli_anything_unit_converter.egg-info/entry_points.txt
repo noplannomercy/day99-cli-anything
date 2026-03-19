@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-unit-converter = cli_anything.unit_converter.unit_converter_cli:main

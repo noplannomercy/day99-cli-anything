@@ -1,0 +1,33 @@
+{
+  "bin": [],
+  "guides": [],
+  "metadata": {
+    "created": "2026-03-18T12:47:41.762769",
+    "modified": "2026-03-18T12:47:41.762769",
+    "software": "kdenlive-cli 1.0"
+  },
+  "name": "test-project",
+  "profile": {
+    "dar_den": 9,
+    "dar_num": 16,
+    "fps_den": 1,
+    "fps_num": 30,
+    "height": 1080,
+    "name": "custom",
+    "progressive": true,
+    "width": 1920
+  },
+  "tracks": [
+    {
+      "clips": [],
+      "hide": false,
+      "id": 0,
+      "locked": false,
+      "mute": false,
+      "name": "Video 1",
+      "type": "video"
+    }
+  ],
+  "transitions": [],
+  "version": "1.0"
+}

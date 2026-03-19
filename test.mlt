@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="C" version="7.0.0" title="test-project" producer="kdenlive-cli">
+  <profile description="custom" width="1920" height="1080" progressive="1" sample_aspect_num="17280" sample_aspect_den="17280" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30" frame_rate_den="1" colorspace="709"/>
+  <playlist id="playlist0">
+    <property name="kdenlive:track_name">Video 1</property>
+  </playlist>
+  <tractor id="maintractor">
+    <track producer="playlist0"/>
+  </tractor>
+</mlt>

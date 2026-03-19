@@ -1,0 +1,13 @@
+setup.py
+cli_anything/note_taker/__init__.py
+cli_anything/note_taker/note_taker_cli.py
+cli_anything/note_taker/core/__init__.py
+cli_anything/note_taker/core/logger.py
+cli_anything/note_taker/core/notes.py
+cli_anything/note_taker/core/storage.py
+cli_anything_note_taker.egg-info/PKG-INFO
+cli_anything_note_taker.egg-info/SOURCES.txt
+cli_anything_note_taker.egg-info/dependency_links.txt
+cli_anything_note_taker.egg-info/entry_points.txt
+cli_anything_note_taker.egg-info/requires.txt
+cli_anything_note_taker.egg-info/top_level.txt

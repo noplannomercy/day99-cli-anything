@@ -1,0 +1,12 @@
+setup.py
+cli_anything/mini_crm/__init__.py
+cli_anything/mini_crm/mini_crm_cli.py
+cli_anything/mini_crm/core/__init__.py
+cli_anything/mini_crm/core/db.py
+cli_anything/mini_crm/core/logger.py
+cli_anything_mini_crm.egg-info/PKG-INFO
+cli_anything_mini_crm.egg-info/SOURCES.txt
+cli_anything_mini_crm.egg-info/dependency_links.txt
+cli_anything_mini_crm.egg-info/entry_points.txt
+cli_anything_mini_crm.egg-info/requires.txt
+cli_anything_mini_crm.egg-info/top_level.txt

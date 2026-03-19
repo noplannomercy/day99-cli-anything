@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-note-taker = cli_anything.note_taker.note_taker_cli:main

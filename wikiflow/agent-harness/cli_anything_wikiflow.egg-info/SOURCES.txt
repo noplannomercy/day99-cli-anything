@@ -1,0 +1,12 @@
+setup.py
+cli_anything/wikiflow/__init__.py
+cli_anything/wikiflow/wikiflow_cli.py
+cli_anything/wikiflow/core/__init__.py
+cli_anything/wikiflow/core/logger.py
+cli_anything/wikiflow/core/storage.py
+cli_anything_wikiflow.egg-info/PKG-INFO
+cli_anything_wikiflow.egg-info/SOURCES.txt
+cli_anything_wikiflow.egg-info/dependency_links.txt
+cli_anything_wikiflow.egg-info/entry_points.txt
+cli_anything_wikiflow.egg-info/requires.txt
+cli_anything_wikiflow.egg-info/top_level.txt
